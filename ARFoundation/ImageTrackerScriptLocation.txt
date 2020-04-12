@@ -1,0 +1,1 @@
+C:\Users\tbsou\Desktop\TCC\VuforiaUnity\Vuforia_Test\Library\PackageCache\com.ptc.vuforia.engine@8.6.7\Vuforia\Scripts\DefaultTrackableEventHandler.cs
